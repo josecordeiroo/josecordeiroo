@@ -1,6 +1,6 @@
 ##  Hey, I'm José! 👽
 <p>I'm a JavaScript Full-Stack Developer from São Paulo, Brazil. <br>
-Currently studying Systems Analysis and Development at the University of Santo Amaro.<br>
+Graduated in Systems Analysis and Development from the University Anhembi Morumbi and Business Administration from FMU.<br>
 Here on my GitHub profile you can see some of my projects and studies. <br>
 </p>
 
@@ -29,7 +29,7 @@ Here on my GitHub profile you can see some of my projects and studies. <br>
 
   <div> 
 <a href="https://www.linkedin.com/in/josecordeiroo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://josecordeiroo-porfolio.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+<a href="https://jose-cordeiro-dev.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
  <a href = "mailto:josecordeiro.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?phone=5511912339964" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/zecaxcr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
