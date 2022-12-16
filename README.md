@@ -1,6 +1,6 @@
 ##  Hey, I'm José! 👽
 <p>I'm a JavaScript Full-Stack Developer from São Paulo, Brazil. <br>
-Graduated in Systems Analysis and Development from the University Anhembi Morumbi and Business Administration from FMU.<br>
+Graduated in Systems Analysis and Development at the University Anhembi Morumbi and Business Administration at FMU.<br>
 Here on my GitHub profile you can see some of my projects and studies. <br>
 </p>
 
