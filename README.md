@@ -17,9 +17,9 @@ Here on my GitHub profile you can see some of my projects and studies. <br>
 
   ## 
 
+
 <div >
   <a href="https://josecordeiroo-porfolio.herokuapp.com/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josecordeiroo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecordeiroo&layout=compact&langs_count=7&theme=merko"/>
   </a>
 </div>
@@ -33,6 +33,3 @@ Here on my GitHub profile you can see some of my projects and studies. <br>
 <a href="https://wa.me/5511984550603" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/zecaxcr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-...
-...
-... 
